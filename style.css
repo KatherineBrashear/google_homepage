@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#text1 {
+    float: right;
+    padding-top: 0px;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+
+#text2 {
+    float: right;
+}
+
+form.text {
+    padding: 10px;
+    float: left;
+}
+
+form.button {
+    float: left;
+    width: 20%;
+}
