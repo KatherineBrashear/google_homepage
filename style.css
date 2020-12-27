@@ -9,6 +9,17 @@ body {
     width: 50%;
 }
 
+li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+/*
 #text1 {
     float: right;
     padding-top: 0px;
@@ -19,7 +30,7 @@ body {
 #text2 {
     float: right;
 }
-
+*/
 form.text {
     padding: 10px;
     float: left;
